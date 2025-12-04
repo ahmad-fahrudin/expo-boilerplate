@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410936478162",
+    "project_id": "expo-boilerplate-3bbab",
+    "storage_bucket": "expo-boilerplate-3bbab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410936478162:android:6fc050987b47d8d787600b",
+        "android_client_info": {
+          "package_name": "com.fahrudin.expoboilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410936478162-evm49ad02oiubdmo1bp2n8nph3ku3caq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC564Rkdi4nOSjiyoUqsOIGIDOyMVeU9ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410936478162-evm49ad02oiubdmo1bp2n8nph3ku3caq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
